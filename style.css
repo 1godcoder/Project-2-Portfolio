@@ -1,0 +1,60 @@
+body {
+    background:chartreuse;
+    color: #444;
+    font-family: "Helvetica Neue", Arial, serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+    font-weight: 200;
+    -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .about{
+    background-color: burlywood;
+  }
+
+  .header{
+    color: blue;
+     font-style: italic;
+    font-size:xx-large;
+    background-color: antiquewhite;
+    width: 250px;
+  }
+
+  .skills{
+    background-color: black;
+  color: chocolate;
+  }
+
+  .contact{
+    background-color:rgb(255, 255, 255);
+
+    color: rgb(248, 139, 5);
+  }
+
+  .btn-i{
+    background-color: blue;
+    color: aliceblue;
+  }
+
+  .btn-f{
+    background-color: blue;
+    color: aliceblue;
+  }
+
+  .btn-t{
+    background-color: blue;
+    color: aliceblue;
+  }
+
+
+  .btn-m{
+    background-color: blue;
+    color: aliceblue;
+  }
+
+  footer{
+    color: black;
+    font-style: italic;
+  }
